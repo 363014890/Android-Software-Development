@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lawford musicClient</string>
+    <string name="your_id_string">Your ID</string>
+    <string name="get_new_id_string">Get New ID</string>
+    <string name="start_service_string">Bind</string>
+    <string name="stop_service_string">Unbind</string>
+    <string name="play_string">Play</string>
+    <string name="stop_string">Stop</string>
+    <string name="pause_string">Pause</string>
+    <string name="resume_string">Resume</string>
+</resources>
