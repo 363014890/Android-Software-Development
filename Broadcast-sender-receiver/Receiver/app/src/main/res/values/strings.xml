@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ReceiverProj3</string>
+    <string-array name="restaurant">
+        <item>Mc D</item>
+        <item>Panda express</item>
+        <item>Chikfla</item>
+        <item>pop eyes</item>
+        <item>subway</item>
+        <item>potbelly</item>
+    </string-array>
+    <string-array name="web">
+        <item>https://www.mcdonalds.com/us/en-us.html</item>
+        <item>https://www.pandaexpress.com/</item>
+        <item>https://www.chick-fil-a.com/</item>
+        <item>https://www.popeyes.com/</item>
+        <item>https://www.subway.com/en-US</item>
+        <item>https://www.potbelly.com/</item>
+    </string-array>
+    <string-array name="_web">
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.willistower.com/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://theskydeck.com/</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.artic.edu/</item>
+    </string-array>
+    <string-array name="attraction">
+        <item>Cloud Gate in Millennium Park</item>
+        <item>navy pier</item>
+        <item>Millennium Park</item>
+        <item>willis tower</item>
+        <item>shedd aqua</item>
+        <item>theskydeck</item>
+        <item>lincoln zoo</item>
+        <item>art institute chicago</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
